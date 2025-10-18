@@ -1,0 +1,426 @@
+{
+  "states": [
+    {
+      "id": "andhra-pradesh",
+      "name": "Andhra Pradesh",
+      "description": "Known for its rich cultural heritage and beautiful temples.",
+      "crimeRate": 15,
+      "bestTime": "October to March",
+      "capital": "Amaravati",
+      "language": "Telugu",
+      "coordinates": { "top": "65%", "left": "49%" },
+      "spots": [
+        { "name": "Tirupati", "description": "Famous for Venkateswara Temple." },
+        { "name": "Araku Valley", "description": "Scenic hill station with coffee plantations." }
+      ]
+    },
+    {
+      "id": "arunachal-pradesh",
+      "name": "Arunachal Pradesh",
+      "description": "Land of Dawn-Lit Mountains with pristine landscapes.",
+      "crimeRate": 5,
+      "bestTime": "March to October",
+      "capital": "Itanagar",
+      "language": "Adi, Apatani, Bodo, Hindi",
+      "coordinates": { "top": "30%", "left": "74%" },
+      "spots": [
+        { "name": "Tawang", "description": "Famous for Tawang Monastery." },
+        { "name": "Ziro Valley", "description": "Known for rice fields and tribal culture." }
+      ]
+    },
+    {
+      "id": "assam",
+      "name": "Assam",
+      "description": "Famous for tea gardens, wildlife, and Brahmaputra River.",
+      "crimeRate": 18,
+      "bestTime": "October to April",
+      "capital": "Dispur",
+      "language": "Assamese",
+      "coordinates": { "top": "36%", "left": "66%" },
+      "spots": [
+        { "name": "Kaziranga National Park", "description": "Home of the one-horned rhinoceros." },
+        { "name": "Majuli", "description": "World's largest river island." }
+      ]
+    },
+    {
+      "id": "bihar",
+      "name": "Bihar",
+      "description": "Rich in history, known for ancient universities and Buddhist sites.",
+      "crimeRate": 25,
+      "bestTime": "October to March",
+      "capital": "Patna",
+      "language": "Hindi, Maithili, Bhojpuri",
+      "coordinates": { "top": "38%", "left": "58%" },
+      "spots": [
+        { "name": "Nalanda University", "description": "Ancient center of learning." },
+        { "name": "Bodh Gaya", "description": "Where Buddha attained enlightenment." }
+      ]
+    },
+    {
+      "id": "chhattisgarh",
+      "name": "Chhattisgarh",
+      "description": "Known for its rich tribal culture and natural resources.",
+      "crimeRate": 20,
+      "bestTime": "October to March",
+      "capital": "Raipur",
+      "language": "Chhattisgarhi, Hindi",
+      "coordinates": { "top": "49%", "left": "51%" },
+      "spots": [
+        { "name": "Chitrakote Falls", "description": "Niagara of India." },
+        { "name": "Kanger Valley National Park", "description": "Rich biodiversity and caves." }
+      ]
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "description": "Famous for beaches, Portuguese heritage, and nightlife.",
+      "crimeRate": 10,
+      "bestTime": "November to February",
+      "capital": "Panaji",
+      "language": "Konkani",
+      "coordinates": { "top": "64%", "left": "37%" },
+      "spots": [
+        { "name": "Baga Beach", "description": "Known for lively atmosphere." },
+        { "name": "Old Goa", "description": "Colonial-era churches." }
+      ]
+    },
+    {
+      "id": "gujarat",
+      "name": "Gujarat",
+      "description": "Diverse culture, historic sites, and Rann of Kutch.",
+      "crimeRate": 17,
+      "bestTime": "November to February",
+      "capital": "Gandhinagar",
+      "language": "Gujarati",
+      "coordinates": { "top": "45%", "left": "34%" },
+      "spots": [
+        { "name": "Rann of Kutch", "description": "White salt desert with festival." },
+        { "name": "Somnath Temple", "description": "One of the twelve Jyotirlinga shrines." }
+      ]
+    },
+    {
+      "id": "haryana",
+      "name": "Haryana",
+      "description": "Known for agriculture and proximity to Delhi.",
+      "crimeRate": 14,
+      "bestTime": "October to March",
+      "capital": "Chandigarh",
+      "language": "Hindi, Punjabi",
+      "coordinates": { "top": "29%", "left": "44%" },
+      "spots": [
+        { "name": "Kurukshetra", "description": "Famous battlefield of Mahabharata." },
+        { "name": "Sultanpur Bird Sanctuary", "description": "Haven for birdwatchers." }
+      ]
+    },
+    {
+      "id": "himachal-pradesh",
+      "name": "Himachal Pradesh",
+      "description": "Known for hill stations, temples, and adventure sports.",
+      "crimeRate": 8,
+      "bestTime": "March to June",
+      "capital": "Shimla",
+      "language": "Hindi, Pahari",
+      "coordinates": { "top": "22%", "left": "47%" },
+      "spots": [
+        { "name": "Manali", "description": "Popular hill station." },
+        { "name": "Kullu", "description": "Famous for Dussehra festival." }
+      ]
+    },
+    {
+      "id": "jammu-and-kashmir",
+      "name": "Jammu and Kashmir",
+      "description": "Known for its stunning Himalayan landscapes and serene valleys.",
+      "crimeRate": 12,
+      "bestTime": "March to October",
+      "capital": "Srinagar",
+      "language": "Kashmiri, Urdu, Hindi",
+      "coordinates": { "top": "15%", "left": "42%" },
+      "spots": [
+        { "name": "Srinagar", "description": "Famous for Dal Lake and Mughal gardens." },
+        { "name": "Gulmarg", "description": "Popular for skiing and scenic beauty." }
+      ]
+    },
+    {
+      "id": "jharkhand",
+      "name": "Jharkhand",
+      "description": "Rich in mineral resources and forests.",
+      "crimeRate": 19,
+      "bestTime": "October to March",
+      "capital": "Ranchi",
+      "language": "Hindi, Santali",
+      "coordinates": { "top": "44%", "left": "57%" },
+      "spots": [
+        { "name": "Betla National Park", "description": "Rich biodiversity and tigers." },
+        { "name": "Dassam Falls", "description": "Scenic waterfall." }
+      ]
+    },
+    {
+      "id": "karnataka",
+      "name": "Karnataka",
+      "description": "Rich history, IT hubs, and diverse landscapes.",
+      "crimeRate": 13,
+      "bestTime": "October to March",
+      "capital": "Bengaluru",
+      "language": "Kannada",
+      "coordinates": { "top": "69%", "left": "38%" },
+      "spots": [
+        { "name": "Mysuru", "description": "Royal heritage and Mysore Palace." },
+        { "name": "Coorg", "description": "Coffee plantations and hills." }
+      ]
+    },
+    {
+      "id": "kerala",
+      "name": "Kerala",
+      "description": "God's Own Country, backwaters and greenery.",
+      "crimeRate": 12,
+      "bestTime": "September to March",
+      "capital": "Thiruvananthapuram",
+      "language": "Malayalam",
+      "coordinates": { "top": "78%", "left": "39%" },
+      "spots": [
+        { "name": "Alleppey Backwaters", "description": "Serene houseboat experience." },
+        { "name": "Munnar", "description": "Tea plantations and hills." },
+        { "name": "Kochi", "description": "Historic port city." },
+        { "name": "Kovalam Beach", "description": "Beach destination with lighthouse." }
+      ]
+    },
+    {
+      "id": "madhya-pradesh",
+      "name": "Madhya Pradesh",
+      "description": "Heart of India with temples, forts, and wildlife.",
+      "crimeRate": 21,
+      "bestTime": "October to March",
+      "capital": "Bhopal",
+      "language": "Hindi",
+      "coordinates": { "top": "45%", "left": "46%" },
+      "spots": [
+        { "name": "Khajuraho", "description": "Famous for temples with erotic sculptures." },
+        { "name": "Kanha National Park", "description": "Popular tiger reserve." }
+      ]
+    },
+    {
+      "id": "maharashtra",
+      "name": "Maharashtra",
+      "description": "Known for Mumbai, forts, and Western Ghats.",
+      "crimeRate": 23,
+      "bestTime": "October to February",
+      "capital": "Mumbai",
+      "language": "Marathi",
+      "coordinates": { "top": "55%", "left": "40%" },
+      "spots": [
+        { "name": "Mumbai", "description": "Financial capital of India." },
+        { "name": "Pune", "description": "Cultural and educational hub." }
+      ]
+    },
+    {
+      "id": "manipur",
+      "name": "Manipur",
+      "description": "Known for landscapes, culture, and dance forms.",
+      "crimeRate": 9,
+      "bestTime": "October to March",
+      "capital": "Imphal",
+      "language": "Manipuri",
+      "coordinates": { "top": "41%", "left": "72%" },
+      "spots": [
+        { "name": "Loktak Lake", "description": "Largest freshwater lake in Northeast India." },
+        { "name": "Imphal", "description": "Capital city with cultural sites." }
+      ]
+    },
+    {
+      "id": "meghalaya",
+      "name": "Meghalaya",
+      "description": "Famous for living root bridges, caves, and waterfalls.",
+      "crimeRate": 7,
+      "bestTime": "October to May",
+      "capital": "Shillong",
+      "language": "Khasi, Garo",
+      "coordinates": { "top": "39%", "left": "65%" },
+      "spots": [
+        { "name": "Cherrapunji", "description": "Wettest place on Earth." },
+        { "name": "Shillong", "description": "Scenic hill station." }
+      ]
+    },
+    {
+      "id": "mizoram",
+      "name": "Mizoram",
+      "description": "Land of hills, forests, and Mizo culture.",
+      "crimeRate": 6,
+      "bestTime": "October to April",
+      "capital": "Aizawl",
+      "language": "Mizo",
+      "coordinates": { "top": "47%", "left": "70%" },
+      "spots": [
+        { "name": "Aizawl", "description": "Capital with scenic hills." },
+        { "name": "Vantawng Falls", "description": "Tallest waterfall in Mizoram." }
+      ]
+    },
+    {
+      "id": "nagaland",
+      "name": "Nagaland",
+      "description": "Known for Naga tribes and festivals.",
+      "crimeRate": 8,
+      "bestTime": "October to March",
+      "capital": "Kohima",
+      "language": "Naga languages",
+      "coordinates": { "top": "37%", "left": "72%" },
+      "spots": [
+        { "name": "Kohima", "description": "Capital city with war cemetery." },
+        { "name": "Khonoma", "description": "Eco-village famous for greenery." }
+      ]
+    },
+    {
+      "id": "new-delhi",
+      "name": "New Delhi",
+      "description": "Capital of India, known for historical monuments and government buildings.",
+      "crimeRate": 22,
+      "bestTime": "October to March",
+      "capital": "New Delhi",
+      "language": "Hindi, English",
+      "coordinates": { "top": "32%", "left": "46%" },
+      "spots": [
+        { "name": "India Gate", "description": "Iconic war memorial." },
+        { "name": "Qutub Minar", "description": "Tallest brick minaret in the world." }
+      ]
+    },
+    {
+      "id": "odisha",
+      "name": "Odisha",
+      "description": "Famous for temples, beaches, and classical dance.",
+      "crimeRate": 18,
+      "bestTime": "October to March",
+      "capital": "Bhubaneswar",
+      "language": "Odia",
+      "coordinates": { "top": "52%", "left": "59%" },
+      "spots": [
+        { "name": "Konark Sun Temple", "description": "UNESCO World Heritage site." },
+        { "name": "Puri", "description": "Famous for Jagannath Temple and beaches." }
+      ]
+    },
+    {
+      "id": "punjab",
+      "name": "Punjab",
+      "description": "Known for agriculture, Sikh temples, and culture.",
+      "crimeRate": 12,
+      "bestTime": "October to March",
+      "capital": "Chandigarh",
+      "language": "Punjabi",
+      "coordinates": { "top": "24%", "left": "38%" },
+      "spots": [
+        { "name": "Amritsar", "description": "Golden Temple and Wagah Border." },
+        { "name": "Chandigarh", "description": "Modern city with gardens." }
+      ]
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "description": "Land of kings, famous for forts, palaces, and deserts.",
+      "crimeRate": 16,
+      "bestTime": "October to March",
+      "capital": "Jaipur",
+      "language": "Hindi, Rajasthani",
+      "coordinates": { "top": "37%", "left": "39%" },
+      "spots": [
+        { "name": "Jaipur", "description": "Pink City with Amber Fort and Hawa Mahal." },
+        { "name": "Udaipur", "description": "City of lakes and palaces." }
+      ]
+    },
+    {
+      "id": "sikkim",
+      "name": "Sikkim",
+      "description": "Himalayan state known for monasteries and mountains.",
+      "crimeRate": 4,
+      "bestTime": "March to June",
+      "capital": "Gangtok",
+      "language": "Nepali, Bhutia, Lepcha",
+      "coordinates": { "top": "31%", "left": "61%" },
+      "spots": [
+        { "name": "Gangtok", "description": "Capital city with monasteries." },
+        { "name": "Nathula Pass", "description": "High altitude mountain pass." }
+      ]
+    },
+    {
+      "id": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "description": "Famous for temples, beaches, and classical arts.",
+      "crimeRate": 16,
+      "bestTime": "November to February",
+      "capital": "Chennai",
+      "language": "Tamil",
+      "coordinates": { "top": "80%", "left": "47%" },
+      "spots": [
+        { "name": "Chennai", "description": "Capital city with Marina Beach." },
+        { "name": "Madurai", "description": "Famous for Meenakshi Temple." }
+      ]
+    },
+    {
+      "id": "telangana",
+      "name": "Telangana",
+      "description": "Known for Hyderabad, pearls, and rich heritage.",
+      "crimeRate": 14,
+      "bestTime": "October to March",
+      "capital": "Hyderabad",
+      "language": "Telugu",
+      "coordinates": { "top": "60%", "left": "48%" },
+      "spots": [
+        { "name": "Hyderabad", "description": "Charminar, Golconda Fort, IT hub." },
+        { "name": "Warangal", "description": "Famous for Warangal Fort and temples." }
+      ]
+    },
+    {
+      "id": "tripura",
+      "name": "Tripura",
+      "description": "Known for palaces, temples, and scenic landscapes.",
+      "crimeRate": 7,
+      "bestTime": "October to March",
+      "capital": "Agartala",
+      "language": "Bengali, Kokborok",
+      "coordinates": { "top": "44%", "left": "67%" },
+      "spots": [
+        { "name": "Ujjayanta Palace", "description": "Royal palace in Agartala." },
+        { "name": "Neermahal", "description": "Water palace in middle of a lake." }
+      ]
+    },
+    {
+      "id": "uttar-pradesh",
+      "name": "Uttar Pradesh",
+      "description": "Famous for Taj Mahal, temples, and Ganga.",
+      "crimeRate": 28,
+      "bestTime": "October to March",
+      "capital": "Lucknow",
+      "language": "Hindi, Urdu",
+      "coordinates": { "top": "34%", "left": "51%" },
+      "spots": [
+        { "name": "Agra", "description": "Taj Mahal and Agra Fort." },
+        { "name": "Varanasi", "description": "Sacred city on the Ganga." }
+      ]
+    },
+    {
+      "id": "uttarakhand",
+      "name": "Uttarakhand",
+      "description": "Land of Himalayas, rivers, and pilgrimage sites.",
+      "crimeRate": 10,
+      "bestTime": "March to June",
+      "capital": "Dehradun",
+      "language": "Hindi",
+      "coordinates": { "top": "27%", "left": "50%" },
+      "spots": [
+        { "name": "Mussoorie", "description": "Popular hill station." },
+        { "name": "Haridwar", "description": "Famous pilgrimage site." }
+      ]
+    },
+    {
+      "id": "west-bengal",
+      "name": "West Bengal",
+      "description": "Famous for Kolkata, Darjeeling, and Sundarbans.",
+      "crimeRate": 19,
+      "bestTime": "October to March",
+      "capital": "Kolkata",
+      "language": "Bengali",
+      "coordinates": { "top": "47%", "left": "59%" },
+      "spots": [
+        { "name": "Kolkata", "description": "Cultural and historical capital." },
+        { "name": "Darjeeling", "description": "Famous hill station and tea gardens." }
+      ]
+    }
+  ]
+}

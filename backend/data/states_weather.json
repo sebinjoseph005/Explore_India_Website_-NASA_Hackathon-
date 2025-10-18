@@ -1,0 +1,154 @@
+{
+  "states": [
+    {
+      "id": "andhra-pradesh",
+      "name": "Andhra Pradesh",
+      "coordinates": { "lat": 15.9129, "lon": 79.7400 }
+    },
+    {
+      "id": "arunachal-pradesh",
+      "name": "Arunachal Pradesh",
+      "coordinates": { "lat": 28.2180, "lon": 94.7278 }
+    },
+    {
+      "id": "assam",
+      "name": "Assam",
+      "coordinates": { "lat": 26.2006, "lon": 92.9376 }
+    },
+    {
+      "id": "bihar",
+      "name": "Bihar",
+      "coordinates": { "lat": 25.0961, "lon": 85.3131 }
+    },
+    {
+      "id": "chhattisgarh",
+      "name": "Chhattisgarh",
+      "coordinates": { "lat": 21.2787, "lon": 81.8661 }
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "coordinates": { "lat": 15.2993, "lon": 74.1240 }
+    },
+    {
+      "id": "gujarat",
+      "name": "Gujarat",
+      "coordinates": { "lat": 22.2587, "lon": 71.1924 }
+    },
+    {
+      "id": "haryana",
+      "name": "Haryana",
+      "coordinates": { "lat": 29.0588, "lon": 76.0856 }
+    },
+    {
+      "id": "himachal-pradesh",
+      "name": "Himachal Pradesh",
+      "coordinates": { "lat": 31.1048, "lon": 77.1734 }
+    },
+    {
+      "id": "jammu-and-kashmir",
+      "name": "Jammu and Kashmir",
+      "coordinates": { "lat": 33.7782, "lon": 76.5762 }
+    },
+    {
+      "id": "jharkhand",
+      "name": "Jharkhand",
+      "coordinates": { "lat": 23.6102, "lon": 85.2799 }
+    },
+    {
+      "id": "karnataka",
+      "name": "Karnataka",
+      "coordinates": { "lat": 15.3173, "lon": 75.7139 }
+    },
+    {
+      "id": "kerala",
+      "name": "Kerala",
+      "coordinates": { "lat": 10.8505, "lon": 76.2711 }
+    },
+    {
+      "id": "madhya-pradesh",
+      "name": "Madhya Pradesh",
+      "coordinates": { "lat": 22.9734, "lon": 78.6569 }
+    },
+    {
+      "id": "maharashtra",
+      "name": "Maharashtra",
+      "coordinates": { "lat": 19.7515, "lon": 75.7139 }
+    },
+    {
+      "id": "manipur",
+      "name": "Manipur",
+      "coordinates": { "lat": 24.6637, "lon": 93.9063 }
+    },
+    {
+      "id": "meghalaya",
+      "name": "Meghalaya",
+      "coordinates": { "lat": 25.4670, "lon": 91.3662 }
+    },
+    {
+      "id": "mizoram",
+      "name": "Mizoram",
+      "coordinates": { "lat": 23.1645, "lon": 92.9376 }
+    },
+    {
+      "id": "nagaland",
+      "name": "Nagaland",
+      "coordinates": { "lat": 26.1584, "lon": 94.5624 }
+    },
+    {
+      "id": "new-delhi",
+      "name": "New Delhi",
+      "coordinates": { "lat": 28.6139, "lon": 77.2090 }
+    },
+    {
+      "id": "odisha",
+      "name": "Odisha",
+      "coordinates": { "lat": 20.9517, "lon": 85.0985 }
+    },
+    {
+      "id": "punjab",
+      "name": "Punjab",
+      "coordinates": { "lat": 31.1471, "lon": 75.3412 }
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "coordinates": { "lat": 27.0238, "lon": 74.2179 }
+    },
+    {
+      "id": "sikkim",
+      "name": "Sikkim",
+      "coordinates": { "lat": 27.5330, "lon": 88.5122 }
+    },
+    {
+      "id": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "coordinates": { "lat": 11.1271, "lon": 78.6569 }
+    },
+    {
+      "id": "telangana",
+      "name": "Telangana",
+      "coordinates": { "lat": 18.1124, "lon": 79.0193 }
+    },
+    {
+      "id": "tripura",
+      "name": "Tripura",
+      "coordinates": { "lat": 23.9408, "lon": 91.9882 }
+    },
+    {
+      "id": "uttar-pradesh",
+      "name": "Uttar Pradesh",
+      "coordinates": { "lat": 26.8467, "lon": 80.9462 }
+    },
+    {
+      "id": "uttarakhand",
+      "name": "Uttarakhand",
+      "coordinates": { "lat": 30.0668, "lon": 79.0193 }
+    },
+    {
+      "id": "west-bengal",
+      "name": "West Bengal",
+      "coordinates": { "lat": 22.9868, "lon": 87.8550 }
+    }
+  ]
+}
