@@ -115,7 +115,7 @@ npm run dev
 
 📧 josephsebin012@gmail.com  
 🌐 GitHub: https://github.com/sebinjoseph005  
-💼 LinkedIn: https://linkedin.com/in/sebin-joseph
+
 
 ---
 
